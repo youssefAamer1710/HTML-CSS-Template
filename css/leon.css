@@ -390,10 +390,10 @@ section.features .container {
 .contact .info .social i {
     margin-left: 10px;
 }
-@media (max-width: 764px) {
+@media (max-width: 767px) {
     .contact .info .link,
     .contact .info .label {
-        font-size: 22px;
+        font-size: 20px;
     }  
 }
 /* Footer Styling */
