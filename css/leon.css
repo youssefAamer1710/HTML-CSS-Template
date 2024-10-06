@@ -385,8 +385,16 @@ section.features .container {
     justify-content: center;
     margin-top: 20px;
     font-size: 16px;
-    gap: 15px;
     color: var(--secondary-color);
+}
+.contact .info .social i {
+    margin-left: 10px;
+}
+@media (max-width: 764px) {
+    .contact .info .link,
+    .contact .info .label {
+        font-size: 22px;
+    }  
 }
 /* Footer Styling */
 footer {
