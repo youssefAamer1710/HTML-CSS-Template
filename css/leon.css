@@ -10,7 +10,7 @@ body {
   font-family: "Work Sans", system-ui;
 }
 .container {
-    width: 600px;
+    width: 80%;
     margin-left: auto;
     margin-right: auto;
     padding-left: 15px;
@@ -48,23 +48,23 @@ body {
 }
 /*     Media Queries      */
 /* Small Screen */
-@media (min-width: 768px) {
+/* @media (min-width: 768px) {
     .container {
-        width: 750px;
+        width: 740px;
     }
-}
+} */
 /* Medium Screen */
-@media (min-width: 992px) {
+/* @media (min-width: 992px) {
     .container {
         width: 970px;
     }
-}
+} */
 /* Large Screen */
-@media (min-width: 1200px) {
+/* @media (min-width: 1200px) {
     .container {
         width: 1170px;
     }
-}
+} */
 /* End Global Rules */
 /* Header styling */
 header {
